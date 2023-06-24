@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794355932926",
+    "project_id": "filmboxd-b35eb",
+    "storage_bucket": "filmboxd-b35eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794355932926:android:19faffb42694890ad2cfaf",
+        "android_client_info": {
+          "package_name": "com.example.series_and_tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794355932926-ess6aau21acitcuu3jbh5natehuh65l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1nKAa6Cle8BOfCrYOdIaktTH3dle-4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794355932926-ess6aau21acitcuu3jbh5natehuh65l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
