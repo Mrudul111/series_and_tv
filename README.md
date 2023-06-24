@@ -1,16 +1,5 @@
-# series_and_tv
+Filmboxd- An App for Cinema Enthusiasts
 
-A new Flutter project.
+This is app is made with love and passion by another fellow Cinema Connoisseur. The app is written in Dart and Developed for both iOS and Android.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
